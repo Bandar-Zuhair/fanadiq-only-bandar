@@ -1,0 +1,15 @@
+Company Names:
+only one place = company_names_dropdown
+
+
+
+Hotel Names:
+1- hotel_location_dropdown -> Each Name in It's Location Place
+2- clint_movements_hotel_names_dropdown
+
+
+
+
+
+The Token github PAT
+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
